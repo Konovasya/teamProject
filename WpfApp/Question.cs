@@ -19,5 +19,7 @@ namespace WpfApp
         public string ThirdAnswer { get; set; }
 
         public int CorrectAnswer { get; set; }
+
+        public string Topic { get; set; }
     }
 }
